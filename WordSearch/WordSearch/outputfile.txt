@@ -1,0 +1,10 @@
+game : 11
+development : 6
+developers : 1
+professional : 1
+computer : 2
+code : 1
+coding : 2
+programming : 2
+if : 0
+whether : 0
